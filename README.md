@@ -3,3 +3,6 @@
 This repository contains daily price data from `www.cscsnigeriaplc.com/web/guest/dailypricelist`. All duplicate dates have been removed. Dates are in WAT.
 
 The Ruby and R scripts used to download and update the data are in the `script` directory.
+
+## Data
+The stock prices (open, close) are in the [https://github.com/ogennadi/nse-data/tree/master/price](price) directory. Bonuses (e.g. 1 for 3) are in the [https://github.com/ogennadi/nse-data/tree/master/bonus](bonus) directory.
