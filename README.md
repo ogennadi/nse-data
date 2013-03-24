@@ -5,4 +5,7 @@ This repository contains daily price data from [The CSCS site](http://www.cscsni
 The Ruby and R scripts used to download and update the data are in the `script` directory.
 
 ## Data
-The stock prices (open, close) are in the [price](https://github.com/ogennadi/nse-data/tree/master/price) directory. Bonuses (e.g. 1 for 3) are in the [bonus](https://github.com/ogennadi/nse-data/tree/master/bonus) directory. Dividends (Close date and amount) are in the [dividend](https://github.com/ogennadi/nse-data/tree/master/dividend) directory. 
+* The stock prices (open, close) are in the [price](https://github.com/ogennadi/nse-data/tree/master/price) directory. 
+* Bonuses (e.g. 1 for 3) are in the [bonus](https://github.com/ogennadi/nse-data/tree/master/bonus) directory.
+* Dividends (Close date and amount) are in the [dividend](https://github.com/ogennadi/nse-data/tree/master/dividend) directory. 
+* The All Shares Index is in [asi.csv](https://github.com/ogennadi/nse-data/tree/master/asi.csv)
